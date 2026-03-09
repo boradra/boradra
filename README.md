@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Bora! 👋
 
-<!--
-**boradra/boradra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Junior Backend Developer
+I am a passionate Backend Developer focused on building scalable and high-performance systems using the **Java Spring Boot** ecosystem.
 
-Here are some ideas to get you started:
+- 🔭 **Currently focusing on:** Java Spring Boot, Hibernate, and PostgreSQL.
+- 🌱 **Learning & Exploring:** Microservices architecture and **Backend AI integrations**.
+- 🎓 **Interests:** Artificial Intelligence, Machine Learning, Computer Networking, and Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technologies & Tools
+- **Languages:** Java, Python, SQL
+- **Frameworks:** Spring Boot, Spring Data JPA, Spring Security
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, Docker, Maven, Postman
+
+### 📩 Contact Me
+Feel free to reach out for collaborations or just a tech chat!
+
+- **LinkedIn:** [bora-dora](https://www.linkedin.com/in/bora-dora-102ab9206)
+- **GitHub:** [boradra](https://github.com/boradra)
