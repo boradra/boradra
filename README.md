@@ -1,4 +1,4 @@
-# Hı, I'm Bora. 
+# Hi, I'm Bora. 
 
 ### 🚀 Junior Backend Developer
 I am a passionate Backend Developer focused on building scalable and high-performance systems using the **Java Spring Boot** ecosystem.
